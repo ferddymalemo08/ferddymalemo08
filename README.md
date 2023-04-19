@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Currently working on Python - Object-relational mapping
+- 👋 Hi, I’m Currently working on:# AirBnB clone - MySQL @ALX Africa
+- ---
 - 👀 I’m interested in development of Geospatial Technologies
 - 🌱 I’m currently learning Software Engineering @alx Africa
 - 💞️ I’m looking to collaborate on Research, developing and Teaching on SE and making consultancy in SE
