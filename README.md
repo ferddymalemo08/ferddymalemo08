@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Currently working on: **AirBnB clone - MySQL [ALX Africa](ALX Africa)**
+- 👋 Hi, I’m Currently working on: **AirBnB clone - MySQL ALX Africa**
 - ---
 - 👀 I’m interested in development of Geospatial Technologies
 - 🌱 I’m currently learning Software Engineering @alx Africa
